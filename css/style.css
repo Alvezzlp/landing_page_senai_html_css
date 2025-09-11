@@ -80,7 +80,7 @@ address {
 .botao {
   background-color: var(--cor-secundaria);
   color: var(--texto-claro) !important;
-  padding: 0.6rem 1.5rem;
+  padding: 0.4rem 0.4rem;
   border-radius: 5px;
   font-weight: 700;
   font-size: 1.2rem;
